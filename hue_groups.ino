@@ -10,10 +10,10 @@ boolean onOffState = true;
 String command = "";
 String state = "";
 
-const char hueHubIP[] = "";
-const char hueUsername[] = "";
-const char* ssid = "";
-const char* pass = "";
+const char hueHubIP[] = "<Hue Bridge IP>";
+const char hueUsername[] = "<Hue Bridge Username>";
+const char* ssid = "<2.4 GHz WiFi Network SSID>";
+const char* pass = "<2.4 GHz WiFi Network Password>";
 const int hueHubPort = 80;
 const int buttonPin = 2;
 
